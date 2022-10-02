@@ -3,3 +3,5 @@
 
 if you want to contribute a new test, you should use the format like that:  
 #### ```branch<labname>  directory<lab period>/test_<description>/test_files```
+
+## You can use these tests by: ```  git pull <branch>```
